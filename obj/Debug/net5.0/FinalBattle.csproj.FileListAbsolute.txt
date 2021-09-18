@@ -1,0 +1,16 @@
+C:\Users\josen\Desktop\C#\Players Guide\FinalBattle\bin\Debug\net5.0\FinalBattle.exe
+C:\Users\josen\Desktop\C#\Players Guide\FinalBattle\bin\Debug\net5.0\FinalBattle.deps.json
+C:\Users\josen\Desktop\C#\Players Guide\FinalBattle\bin\Debug\net5.0\FinalBattle.runtimeconfig.json
+C:\Users\josen\Desktop\C#\Players Guide\FinalBattle\bin\Debug\net5.0\FinalBattle.runtimeconfig.dev.json
+C:\Users\josen\Desktop\C#\Players Guide\FinalBattle\bin\Debug\net5.0\FinalBattle.dll
+C:\Users\josen\Desktop\C#\Players Guide\FinalBattle\bin\Debug\net5.0\ref\FinalBattle.dll
+C:\Users\josen\Desktop\C#\Players Guide\FinalBattle\bin\Debug\net5.0\FinalBattle.pdb
+C:\Users\josen\Desktop\C#\Players Guide\FinalBattle\obj\Debug\net5.0\FinalBattle.csproj.AssemblyReference.cache
+C:\Users\josen\Desktop\C#\Players Guide\FinalBattle\obj\Debug\net5.0\FinalBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josen\Desktop\C#\Players Guide\FinalBattle\obj\Debug\net5.0\FinalBattle.AssemblyInfoInputs.cache
+C:\Users\josen\Desktop\C#\Players Guide\FinalBattle\obj\Debug\net5.0\FinalBattle.AssemblyInfo.cs
+C:\Users\josen\Desktop\C#\Players Guide\FinalBattle\obj\Debug\net5.0\FinalBattle.csproj.CoreCompileInputs.cache
+C:\Users\josen\Desktop\C#\Players Guide\FinalBattle\obj\Debug\net5.0\FinalBattle.dll
+C:\Users\josen\Desktop\C#\Players Guide\FinalBattle\obj\Debug\net5.0\ref\FinalBattle.dll
+C:\Users\josen\Desktop\C#\Players Guide\FinalBattle\obj\Debug\net5.0\FinalBattle.pdb
+C:\Users\josen\Desktop\C#\Players Guide\FinalBattle\obj\Debug\net5.0\FinalBattle.genruntimeconfig.cache
